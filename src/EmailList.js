@@ -61,6 +61,12 @@ const EmailList = () => {
                   description='hey fellow'
                   time='10pm'
                 />
+                <EmailRow 
+                  title='twicth'
+                  subject='this is a test'
+                  description='hey fellow'
+                  time='10pm'
+                />
             </div>
         </div>
     )
