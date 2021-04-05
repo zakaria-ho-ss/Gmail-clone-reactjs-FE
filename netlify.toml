@@ -1,4 +1,4 @@
 [build]
   publish = "build"
-  command = "echo 'default context'"
-  CI="npm run build"
+  command = "npm run build"
+ 
